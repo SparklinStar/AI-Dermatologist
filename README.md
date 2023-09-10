@@ -2,7 +2,7 @@
 
 AI DERMATOLOGIST is a powerful web application designed to revolutionize dermatological diagnosis and patient interaction. This app combines cutting-edge technologies such as image recognition, natural language processing (NLP), and external APIs to provide a comprehensive and user-friendly experience.
 
-![AI DERMATOLOGIST](https://your-image-url-here.com)
+![AI DERMATOLOGIST](https://www.youtube.com/watch?v=eJbUr5cVQB4)
 
 ## Table of Contents
 - [Introduction](#introduction)
