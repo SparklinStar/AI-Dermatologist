@@ -17,11 +17,11 @@ youtube_api_key = os.getenv("YOUTUBE_API_KEY")
 page_bg_img = style.stylespy()  # used for styling the page
 
 # Appname
-st.set_page_config(page_title="Skin Disease Classifier", layout="wide")
+st.set_page_config(page_title="AI DERMATOLOGIST", layout="wide")
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-st.markdown("<h1 style='text-align: center; color: #fff;'>Skin Disease Classifier</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #fff;'>AI DERMATOLOGIST</h1>", unsafe_allow_html=True)
 
 
 # Load your model and its weights
