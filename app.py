@@ -5,12 +5,13 @@ import tensorflow as tf
 from tensorflow.keras.applications.efficientnet import preprocess_input
 import style
 import openai
-from dotenv import load_dotenv
-load_dotenv()
+
 import os
 from googleapiclient.discovery import build
 import pdf_create as pdf
 # Set your OpenAI API key and YouTube API key
+OPENAI_API_KEY = "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"
+YOUTUBE_API_KEY = "AIzaSyAm1WFPDd9DynArHnBc_M0-Gkf3zdeLRqc"
 openai.api_key = os.getenv("OPENAI_API_KEY")
 youtube_api_key = os.getenv("YOUTUBE_API_KEY") 
 
